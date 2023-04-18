@@ -1,15 +1,15 @@
-## Collaborative development using Git and GitHub
+## Colaborative development using Git and GitHub
 
 This repository is to practice how to collaborate appropriately using Git and Github.
 
 ### Steps
 
-- *Fork the repository*: It helps the leader of a project to monitor contributions from other project associates by using a ‘pull’ style workflow.
-- *Create your branch*:
+- Fork the repository
+- Create your branch
 - Clone the repo (local)
 - Develop what you need
 - Commit and push changes
-- Make a pull request to update changes in the main repository
+- Make a pull request to update changes in the main reposotory
 
 ### What to add
 
